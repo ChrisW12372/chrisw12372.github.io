@@ -13,7 +13,7 @@ navbar:
       href: http://github.com/ChrisW12372.github.io/
 output:
   html_document:
-    theme: cerulean
+    theme: simplex
     
     
     

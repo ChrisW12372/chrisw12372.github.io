@@ -1,0 +1,86 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    
+---
+
+# This is Chris's awesome website
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+# Adding some other links in .html
+
+I want to add a link [P8105](https://p8105.com/index.html).
+
+We can also use [google](https://www.google.com/) to learn data science.
+
+
+We are making websites today. Learn more on [here](about.html).
+
+Go back to the [homepage](index.html)
+
+
+To show that you can use rmarkdown as normal, check out [this page](plots.html).
+
+
+Here is a picture.
+
+![](images/1.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

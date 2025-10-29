@@ -1,0 +1,59 @@
+---
+title: "About this website"
+author: "Chris"
+date: "2025-10-29"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+This website was coded by Chris W, using RMarkdown to do all the work.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

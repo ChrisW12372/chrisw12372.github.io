@@ -1,59 +1,57 @@
 ---
-title: "About this website"
-author: "Chris"
-date: "2025-10-29"
-output: 
-  html_document:
-    toc: true
-    toc_float: true
-    
+title: "About"
+output: html_document
 ---
 
-This website was coded by Chris W, using RMarkdown to do all the work.
+# About Me
 
+Hi! I'm **Chris**, a master's student in **Biostatistics at Columbia University’s Mailman School of Public Health**.  
+My academic background is in statistics and economics (B.S. from Shanghai University of Finance and Economics), and I’m passionate about applying quantitative models to public health and financial data problems.
 
+---
 
+## 🎓 Education
 
+- **M.S. in Biostatistics**, Columbia University, 2025–2027  
+  *Concentration:* Data Science, Statistical Modeling  
+- **B.S. in Statistics (with Economics)**, Shanghai University of Finance and Economics, 2021–2025  
 
+---
 
+## 🔬 Research Interests
 
+- High-frequency financial econometrics  
+- Volatility modeling (HAR-RV-CJ, ARJI-GARCH)  
+- Statistical learning for biomedical data  
+- Real-world applications of machine learning in epidemiology  
 
+---
 
+## 💼 Experience
 
+- **Research Assistant**, Heilongjiang Bayi Agricultural University (2023.12-2024.03–)  
+  Working with NIH-funded projects on digital suicide prevention, data analysis in R, and model-based inference.
 
+- **Undergraduate Thesis**, *“Bitcoin Volatility Modeling Based on HAR-RV-CJ Framework”*  
+  Developed an HAR-RV-CJ model incorporating jump components and bi-power variation for realized volatility estimation.
 
+---
 
+## 🧰 Technical Skills
 
+| Category | Skills |
+|-----------|---------|
+| Programming | R, Python, SQL |
+| Data Science | tidyverse, ggplot2, scikit-learn, TensorFlow |
+| Statistical Modeling | GARCH-family, time series, mixed-effects, survival analysis |
+| Tools | GitHub, R Markdown, Quarto, LaTeX |
 
+---
 
+## 🌍 Beyond Work
 
+Outside of statistics, I’m interested in European cinema, data visualization design, and exploring how culture and science intersect.  
+I also enjoy translating film subtitles and experimenting with creative data storytelling.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 

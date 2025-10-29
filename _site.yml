@@ -1,19 +1,42 @@
-name: "Yay internet!"
-output_dir: "."
+name: "Chris's Website"
+output_dir: "_site"
+
 navbar:
-  title: "Home"
+  title: "Hi. I'm Chris."
+  left:
+    - href: index.html
+
   right:
     - text: "About"
       href: about.html
-    - text: "Plots"
-      href: plots.html
-    - icon: fa-envelope fa-lg
-      href: mailto:tw3128@cumc.columbia.edu
-    - icon: fa-github fa-lg
-      href: https://github.com/ChrisW12372/chrisw12372.github.io.git
+
+    - text: "Contact"
+      menu:
+        - text: "Email"
+          icon: fa-envelope
+          href: "mailto:tw3128@cumc.columbia.edu"
+        - text: "Phone"
+          icon: fa-phone
+          href: "tel:+1-123-456-7890"   
+
+    - text: "GitHub"
+      icon: fa-github
+      href: "https://github.com/ChrisW12372/chrisw12372.github.io"
+      target: _blank
+
+    - text: "Resume"
+      icon: fa-file-pdf-o
+      href: "files/resume.pdf"
+      target: _blank
+
 output:
   html_document:
-    theme: simplex
+    theme: flatly
+    highlight: textmate
+    includes:
+      in_header: header.html
+
+
     
     
     

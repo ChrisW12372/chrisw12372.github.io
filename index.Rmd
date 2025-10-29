@@ -1,86 +1,31 @@
 ---
-title: "My awesome website"
-output: 
+title: "Welcome"
+output:
   html_document:
-    toc: true
-    toc_float: true
-    
+    toc: false
+    theme: flatly
 ---
 
-# This is Chris's awesome website
+<div style="text-align: center; margin-top: 40px; margin-bottom: 20px;">
+  <h1>Hi, I'm Chris 👋</h1>
+  <p style="font-size: 20px;">M.S. in Biostatistics @ Columbia University</p>
+  <p style="font-size: 16px; color: gray;">Exploring data, statistics, and real-world problems</p>
+</div>
 
-![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
-# Adding some other links in .html
+---
 
-I want to add a link [P8105](https://p8105.com/index.html).
+## 🧠 About Me
 
-We can also use [google](https://www.google.com/) to learn data science.
+I’m passionate about combining **statistical modeling**, **data science**, and **public health** to derive meaningful insights from complex datasets.  
+Currently, I’m working on several projects involving **HAR-RV models**, **volatility estimation**, and **machine learning applications** in biomedical data.
 
+---
 
-We are making websites today. Learn more on [here](about.html).
+## 🔬 Research & Projects
 
-Go back to the [homepage](index.html)
+- **HAR-RV-CJ Model for Bitcoin Volatility** — modeling realized volatility and jumps.  
+- **CT Image Segmentation** — quantitative evaluation with Dice and Kappa metrics.  
+- **Epidemiological Analysis** — cohort study data cleaning, logistic regression, and survival analysis.
 
-
-To show that you can use rmarkdown as normal, check out [this page](plots.html).
-
-
-Here is a picture.
-
-![](images/1.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 

@@ -1,5 +1,6 @@
 name: "Chris's Website"
 output_dir: "_site"
+clean: false
 
 navbar:
   title: "Hi. I'm Chris."

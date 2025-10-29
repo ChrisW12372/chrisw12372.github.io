@@ -24,10 +24,8 @@ navbar:
       href: "https://github.com/ChrisW12372/chrisw12372.github.io"
       target: _blank
 
-    - text: "Resume"
-      icon: fa-file-pdf-o
-      href: "files/resume.pdf"
-      target: _blank
+    - icon: fa-file-pdf-o
+      html: '<a href="files/resume.pdf" download style="color:#2c3e50;text-decoration:none;">Resume</a>'
 
 output:
   html_document:
